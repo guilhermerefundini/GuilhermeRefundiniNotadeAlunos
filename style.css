@@ -5,7 +5,7 @@ body {
     padding: 0;
   }
   header {
-    background-color: #007bff;
+    background-color: #214163;
     color: white;
     padding: 1em;
     text-align: center;
@@ -14,7 +14,7 @@ body {
     max-width: 900px;
     margin: 2em auto;
     padding: 2em;
-    background: white;
+    background: rgb(236, 236, 236);
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
   }
   form input, form select, form button {
@@ -29,17 +29,17 @@ body {
     margin-top: 2em;
   }
   th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #000000;
     padding: 0.5em;
     text-align: center;
   }
   th {
-    background-color: #007bff;
+    background-color: #214163;
     color: white;
   }
   .aprovado {
-    background-color: #c8e6c9;
+    background-color: #73e177;
   }
   .reprovado {
-    background-color: #ffcdd2;
+    background-color: #ea5362;
   }
